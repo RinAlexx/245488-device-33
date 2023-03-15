@@ -1,5 +1,7 @@
 # Личный проект «Девайс»
 
+Ссылка на готовый проект: https://rinalexx.github.io/245488-device-33/
+
 * Студент: [Марина Алексеева](https://up.htmlacademy.ru/htmlcss/33/user/245488).
 * Наставник: [Валерий Крукович](https://htmlacademy.ru/profile/id303175).
 
